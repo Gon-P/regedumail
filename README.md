@@ -1,4 +1,4 @@
-'-' Đọc hết đê
+# '-' Đọc hết đê
 # Edu-Mail-Generator
 Generate Free Edu Mail(s) within minutes
 
